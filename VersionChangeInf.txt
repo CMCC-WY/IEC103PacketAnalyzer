@@ -1,0 +1,24 @@
+## [Note]
+- Added by 新添加的功能。
+- Changed by 对现有功能的变更。
+- Deprecated by 已经不建议使用，准备很快移除的功能。
+- Removed by 已经移除的功能。
+- Fixed by 对bug的修复
+- Security by 对安全的改进
+- Describe 对程序功能的简单描述
+- 日期应为YYYY-MM-DD格式
+- 最新更新在前面
+
+## [Describe]
+- 许继IEC60870解析工具
+
+## [Unreleased]
+
+## [0.0.2] - 2017-12-28
+### Fixed by 王力
+- iec103的传送原因和公共地址是1字节，之前误写为2字节.
+- 加入解析四方串口/udp103规约.
+
+## [0.0.1] - 2017-12-06
+### Added by 王力
+- 初始版本
